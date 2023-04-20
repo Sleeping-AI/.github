@@ -1,0 +1,8 @@
+# Introduction
+Welcome to Sleeping AI, an unconventional artificial intelligence lab that creates state-of-the-art models, applications, and algorithms in the field of Artificial Intelligence and Quantum Computing. We aim to take risks and challenges to find unconventional ideas and papers to produce work that benefits society and humanity. Our approach is unorthodox as we do not follow the trend of producing the same mundane stuff with slight improvements. We are committed to producing groundbreaking work that pushes the boundaries of what is possible in the field.
+
+## Our Approach:
+At Sleeping AI, we believe in the power of collaboration and open source. All our work is 100% open source and easily accessible. We collaborate with exceptional talents from high schools to universities to produce stellar research. We use state-of-the-art models such as ChatGPT, Bard, LLama, and beyond to aid in our research work to be faster. While we believe in the future, we take into account all the ethical and moral concerns using these models. We use the human-in-the-loop approach and manual evaluation in all the processes of our products to ensure that they meet the highest ethical standards.
+
+## Ethics Note:
+Our lab is built upon the very foundation of ethics, and we take ethical concerns very seriously. We spend a significant amount of time analyzing and finding ethical concerns of a particular approach and project and make them publicly available for transparency. Ethical responsibility comes first than our research. We believe in taking ethical and moral considerations into account in all aspects of our work to ensure that our products are safe and beneficial for society and humanity.
