@@ -1,8 +1,21 @@
-# Introduction
-Welcome to Sleeping AI, an unconventional artificial intelligence lab that creates state-of-the-art models, applications, and algorithms in the field of Artificial Intelligence and Quantum Computing. We aim to take risks and challenges to find unconventional ideas and papers to produce work that benefits society and humanity. Our approach is unorthodox as we do not follow the trend of producing the same mundane stuff with slight improvements. We are committed to producing groundbreaking work that pushes the boundaries of what is possible in the field.
+## Introduction
+We’re a collaboration first AI lab. Our key derivative is to develop state-of-art AI infrastructure and models. With the help of AI, we’re committed to solve the most pressing issues in medicine, military, communication, linguistics and automated entities. 
 
-## Our Approach:
-At Sleeping AI, we believe in the power of collaboration and open source. All our work is 100% open source and easily accessible. We collaborate with exceptional talents from high schools to universities to produce stellar research. We use state-of-the-art models such as ChatGPT, Bard, LLama, and beyond to aid in our research work to be faster. While we believe in the future, we take into account all the ethical and moral concerns using these models. We use the human-in-the-loop approach and manual evaluation in all the processes of our products to ensure that they meet the highest ethical standards.
+#### How do we operate?
+In our lab, we take a hybrid approach whilst working, we combine our internal connections to recruit teammates (project-wise) and outside collaborations with well-known research labs and universities. 
 
-## Ethics Note:
-Our lab is built upon the very foundation of ethics, and we take ethical concerns very seriously. We spend a significant amount of time analyzing and finding ethical concerns of a particular approach and project and make them publicly available for transparency. Ethical responsibility comes first than our research. We believe in taking ethical and moral considerations into account in all aspects of our work to ensure that our products are safe and beneficial for society and humanity.
+To work with us, we evaluate each individual/entity in following **parameters:**
+
+1. Influence and prestige
+2. Previous well-known work
+3. Major contributions
+
+After these checks, we perform a certain collaboration. 
+
+##### Computing Infrastructure
+We utilise state-of-art hardware and super computers. It all boils down to the specific use-case. In the past, we have performed from XLA Accelerated Computing to distributed torch computing. Translating to have experience in both TPU and GPUs. 
+
+##### Ethics
+To develop Human AI, we resort to greek philosophies and utilise core human morality and nature as our ethical guidelines. We ensure no harm being done to any human being. 
+
+
