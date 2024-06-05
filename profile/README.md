@@ -1,1 +1,1 @@
-Under revamp by Project Red Wine. We're working on providing constructive projects and new shift
+we build ai, we build future, we do research!
