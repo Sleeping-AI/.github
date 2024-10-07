@@ -1,6 +1,5 @@
-**Sleeping AI**, an unorthodox artificial intelligence lab, is dedicated to pushing the boundaries of AI research. We believe that AI models and datasets should be released publicly, prioritizing research benefits over commercial interests and self-serving biases. Our goal is to prevent the creation of overly advanced AI or AGI hype.
+**Sleeping AI** is a research-driven lab dedicated to exploring unconventional problems in Artificial Intelligence and Brain-Machine inspired networks. While many focus on trending topics and established problem statements, we aim to tackle the overlooked challenges and pioneer research in emerging areas.
 
-We recognize AGI hype as a phenomenon where researchers and reviewers overestimate the capabilities of groundbreaking intelligent models and datasets, believing they could lead to human or near-human level intelligence. At Sleeping AI, we challenge such beliefs and prioritize groundbreaking, high-quality research. We believe in conducting research that aligns with core human ethics and morality, which are fundamental to our nature.
+Our mission is to address experimental, curiosity-driven questions that blend AI with Neuroscience, anticipating future trends and shaping new research pathways.
 
-
-
+Currently in a limited beta phase, Sleeping AI’s activities are closely aligned with the ongoing projects and contributions of our founder, *sleeping4cat (Ammar)*. We are preparing for a broader launch in the coming months and are committed to advancing the frontier of AI research.
