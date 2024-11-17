@@ -1,5 +1,3 @@
-**Sleeping AI** is a research-driven lab dedicated to exploring unconventional problems in Artificial Intelligence and Brain-Machine inspired networks. While many focus on trending topics and established problem statements, we aim to tackle the overlooked challenges and pioneer research in emerging areas.
+Sleeping AI isn’t just another lab — we’re a force that redefines what AI research should be. We don’t babysit AI; we unleash it, allowing it to drive real, practical breakthroughs. Our mission is clear: open-source datasets, tutorials, and cutting-edge models, all with the goal of advancing humanity.
 
-Our mission is to address experimental, curiosity-driven questions that blend AI with Neuroscience, anticipating future trends and shaping new research pathways.
-
-Currently in a limited beta phase, Sleeping AI’s activities are closely aligned with the ongoing projects and contributions of our founder, *sleeping4cat (Ammar)*. We are preparing for a broader launch in the coming months and are committed to advancing the frontier of AI research.
+We work hand-in-hand with our friendly labs to meet our objectives, pushing the boundaries of open-source research. While we plan future closed-source products to fund our research, our focus remains on benefiting humanity, not chasing profits. We're not here to be another Anthropic or OpenAI. We aim to become what Google Brain once was — a place where **innovation** and **research** take priority over flashy products and profitability. No gimmicks. Just pure, unfiltered progress.
