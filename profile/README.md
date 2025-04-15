@@ -1,3 +1,5 @@
-Sleeping AI isn’t just another lab — we’re a force that redefines what AI research should be. We don’t babysit AI; we unleash it, allowing it to drive real, practical breakthroughs. Our mission is clear: open-source datasets, tutorials, and cutting-edge models, all with the goal of advancing humanity.
+**Sleeping AI** is a Non-profit organization committed to advanced artificial intelligence research. By advanced artificial intelligence, we mean radical and paradigm shifting ideas and projects that re-thinks on-going research landscapes and pushing creativity and thinking to the utmost limit. 
 
-We work hand-in-hand with our friendly labs to meet our objectives, pushing the boundaries of open-source research. While we plan future closed-source products to fund our research, our focus remains on benefiting humanity, not chasing profits. We're not here to be another Anthropic or OpenAI. We aim to become what Google Brain once was — a place where **innovation** and **research** take priority over flashy products and profitability. No gimmicks. Just pure, unfiltered progress.
+We are a very small group working in-collaboration with friendly labs, universities and researchers throughout the world, mainly Germany, Israel and European institutions. Our research interests are audio and natural language processing (e.g. scaling laws, generative audio and music modelling, evaluation and benchmarks and large-scale pre-training and post-training datasets). 
+
+We are looking for investors and raise initial seed-funding.
